@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE Magacin SYSTEM "magacin.dtd">
+<Magacin xmlns="http://www.w3schools.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3schools.com magacin.xsd">
+<Artikal>
+ <Naziv sifra="2563"> Cips</Naziv>
+ <DatumIzrade>
+  <Dan>23 </Dan>
+  <Mesec>15 </Mesec>
+  <Godina> 2019</Godina>
+ </DatumIzdrade>
+ <Cena tip="din">59 </Cena> 
+ <KompanijaProdavca> 
+  <ImeKompanije> Bambi</ImeKompanije>
+  <Adresa>Prote Nenadovica 212 </Adresa>
+  <Adresa>Cegarska 51 </Adresa>
+</KompanijaProdavca>
+<Email tip="privatni"> prota.nenadovic@gmail.com </Email>
+</Artikal>
+
+<Artikal>
+ <Naziv sifra="262">Nivea krema</Naziv>
+ <DatumIzrade>
+  <Dan>15 </Dan>
+  <Mesec>6 </Mesec>
+  <Godina> 2018</Godina>
+ </DatumIzdrade>
+ <Cena tip="eur">13 </Cena> 
+ <KompanijaProdavca> 
+  <ImeKompanije> Soft</ImeKompanije>
+  <Adresa>Prote Mateje 11 </Adresa> 
+</KompanijaProdavca>
+<Email tip="sluzbeni"> nivea.krema@gmail.com </Email>
+</Artikal> 
+
+<Artikal>
+ <Naziv sifra="262">Micelarna voda</Naziv>
+ <DatumIzrade>
+  <Dan>7 </Dan>
+  <Mesec>16 </Mesec>
+  <Godina> 2018</Godina>
+ </DatumIzdrade>
+ <Cena tip="eur">66 </Cena> 
+ <KompanijaProdavca> 
+  <ImeKompanije> Mixa</ImeKompanije>
+  <Adresa>Brace Jerkovic 76/a </Adresa> 
+</KompanijaProdavca>
+<Email tip="sluzbeni"> micelarnavoda@gmail.com </Email>
+<Email tip="privatni"> marko.milesevic@gmail.com </Email>
+</Artikal>
